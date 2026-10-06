@@ -8,9 +8,9 @@ The frontend is built with React, Vite, and Tailwind CSS.
 
 ### Current Branch
 
-`UI-04` - Implement Registration page with form fields.
+`UI-05` - Build Dashboard layout with cards and summary placeholders.
 
-This branch adds the registration page UI with form fields.
+This branch adds the dashboard layout with cards and summary placeholders.
 
 ### Frontend Structure
 
@@ -20,6 +20,7 @@ This branch adds the registration page UI with form fields.
 - `frontend/src/components/Navbar.jsx` - Navigation bar component.
 - `frontend/src/pages/LoginPage.jsx` - Login page component.
 - `frontend/src/pages/RegisterPage.jsx` - Registration page component.
+- `frontend/src/pages/DashboardPage.jsx` - Dashboard layout component.
 - `frontend/src/style.css` - Tailwind CSS import.
 - `frontend/src/assets/` - Static frontend assets.
 - `frontend/src/components/` - Reusable UI components.
