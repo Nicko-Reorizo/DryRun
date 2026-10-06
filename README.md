@@ -8,9 +8,9 @@ The frontend is built with React, Vite, and Tailwind CSS.
 
 ### Current Branch
 
-`UI-02` - Build navigation bar with links.
+`UI-03` - Implement Login page with form fields.
 
-This branch adds the frontend navigation bar with links for Home, Dashboard, and Records.
+This branch adds the login page UI with form fields.
 
 ### Frontend Structure
 
@@ -18,6 +18,7 @@ This branch adds the frontend navigation bar with links for Home, Dashboard, and
 - `frontend/src/main.jsx` - React entry point.
 - `frontend/src/App.jsx` - Temporary starter component.
 - `frontend/src/components/Navbar.jsx` - Navigation bar component.
+- `frontend/src/pages/LoginPage.jsx` - Login page component.
 - `frontend/src/style.css` - Tailwind CSS import.
 - `frontend/src/assets/` - Static frontend assets.
 - `frontend/src/components/` - Reusable UI components.
