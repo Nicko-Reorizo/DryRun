@@ -8,9 +8,9 @@ The frontend is built with React, Vite, and Tailwind CSS.
 
 ### Current Branch
 
-`UI-06` - Apply styling for responsiveness.
+`UI-07` - Make the frontend responsive for both desktop and mobile.
 
-This branch improves Tailwind styling and responsive behavior across the current frontend layout.
+This branch finalizes desktop and mobile responsiveness for the current frontend layout.
 
 ### Frontend Structure
 
