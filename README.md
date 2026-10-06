@@ -8,9 +8,9 @@ The frontend is built with React, Vite, and Tailwind CSS.
 
 ### Current Branch
 
-`UI-05` - Build Dashboard layout with cards and summary placeholders.
+`UI-06` - Apply styling for responsiveness.
 
-This branch adds the dashboard layout with cards and summary placeholders.
+This branch improves Tailwind styling and responsive behavior across the current frontend layout.
 
 ### Frontend Structure
 
