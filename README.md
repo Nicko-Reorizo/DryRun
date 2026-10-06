@@ -8,15 +8,16 @@ The frontend is built with React, Vite, and Tailwind CSS.
 
 ### Current Branch
 
-`UI-01` - Frontend project structure.
+`UI-02` - Build navigation bar with links.
 
-This branch only sets up the frontend foundation. UI screens and feature work should be added in their own ticket branches.
+This branch adds the frontend navigation bar with links for Home, Dashboard, and Records.
 
 ### Frontend Structure
 
 - `frontend/index.html` - Vite HTML entry.
 - `frontend/src/main.jsx` - React entry point.
 - `frontend/src/App.jsx` - Temporary starter component.
+- `frontend/src/components/Navbar.jsx` - Navigation bar component.
 - `frontend/src/style.css` - Tailwind CSS import.
 - `frontend/src/assets/` - Static frontend assets.
 - `frontend/src/components/` - Reusable UI components.
